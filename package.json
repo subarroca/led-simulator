@@ -1,0 +1,22 @@
+{
+  "name": "led-strip-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "d3-color": "2.0.0",
+    "d3-interpolate": "2.0.1",
+    "d3-scale": "3.2.1",
+    "node-sass": "4.14.1",
+    "rxjs": "6.6.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1",
+    "@types/d3": "5.7.2"
+  },
+  "keywords": []
+}
